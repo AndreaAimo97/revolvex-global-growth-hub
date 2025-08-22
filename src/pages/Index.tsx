@@ -21,7 +21,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-xl font-bold mb-4 md:mb-0">Revolvex FZC LLC</div>
             <div className="text-sm opacity-90">
-              © 2024 Revolvex. Registered in SPC Free Zone, Sharjah, UAE.
+              © 2025 Revolvex. Registered in SPC Free Zone, Sharjah, UAE.
             </div>
           </div>
         </div>
