@@ -3,24 +3,29 @@ import { Card } from "@/components/ui/card";
 const ServicesSection = () => {
   const services = [
     {
-      title: "E-Commerce Solutions",
-      description: "Retail sale of digital products via online platforms. E-commerce platform optimization and online marketplace management.",
-      icon: "🛒"
+      title: "AI-Generated Digital Content",
+      description: "eBooks, video courses, templates, and SaaS solutions powered by artificial intelligence.",
+      icon: "📚"
     },
     {
-      title: "AI & Digital Innovation Consultancy",
-      description: "AI research and consulting to support digital transformation. AI strategy development and innovation consulting.",
+      title: "SaaS Tools for Digital Delivery",
+      description: "Comprehensive platforms for delivering and monetizing your digital products.",
+      icon: "🚀"
+    },
+    {
+      title: "Marketing Automation & Data Monetization",
+      description: "Streamline your marketing processes and unlock the value of your data.",
+      icon: "📊"
+    },
+    {
+      title: "Custom GPT Agents & White-Label AI Apps",
+      description: "Tailored AI solutions and brandable applications for your specific needs.",
       icon: "🤖"
     },
     {
-      title: "IT & Business Consultancy",
-      description: "Helping SMEs optimize their technology infrastructure and business processes through strategic consulting.",
-      icon: "💼"
-    },
-    {
-      title: "Professional Training & Development",
-      description: "Customized programs to build digital and AI capabilities through training and innovation workshops.",
-      icon: "🎓"
+      title: "AI Integrations for Creators",
+      description: "Seamless AI tools for educators, entrepreneurs, and content creators.",
+      icon: "⚡"
     }
   ];
 
@@ -30,9 +35,9 @@ const ServicesSection = () => {
         <div className="max-w-6xl mx-auto">
           
           <div className="text-center space-y-6 mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-primary">Core Business Activities</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-primary">Our Services</h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-              Comprehensive solutions designed to accelerate your digital transformation and business growth.
+              Comprehensive AI-powered solutions designed to accelerate your digital growth and streamline your business processes.
             </p>
           </div>
 

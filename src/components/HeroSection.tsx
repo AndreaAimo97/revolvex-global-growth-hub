@@ -17,7 +17,7 @@ const HeroSection = () => {
           </h1>
           
           <h2 className="text-xl md:text-2xl text-accent-gold font-medium">
-            Your trusted AI & digital solutions partner for growth and innovation.
+            Your trusted AI & digital solutions partner for global growth.
           </h2>
           
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
