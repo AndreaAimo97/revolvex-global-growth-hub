@@ -49,7 +49,7 @@ const ContactSection = () => {
                   <div className="space-y-2 text-muted-foreground">
                     <p><strong>Company:</strong> Revolvex FZC LLC</p>
                     <p><strong>Registration:</strong> SPC Free Zone, Sharjah, United Arab Emirates</p>
-                    <p><strong>Email:</strong> info@revolve-x.com</p>
+                    <p><strong>Email:</strong> info@revolvex.co</p>
                   </div>
                 </div>
               </Card>

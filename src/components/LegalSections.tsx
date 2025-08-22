@@ -38,7 +38,7 @@ const LegalSections = () => {
                   
                   <p>
                     Data retention aligns with UAE law with a maximum period of 10 years for business records. 
-                    You have rights to access, correct, delete, and port your data. Contact us at info@revolve-x.com 
+                    You have rights to access, correct, delete, and port your data. Contact us at info@revolvex.co 
                     for privacy-related requests.
                   </p>
                 </div>
